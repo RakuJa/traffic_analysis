@@ -19,7 +19,7 @@ The verification process has been the following:
 
 **Task 1** runs on any standard Linux machine with Python 3.14+ and [uv](https://docs.astral.sh/uv/).
 
-**Task 2** requires the P4 tutorials [VM](https://github.com/jafingerhut/p4-guide/blob/master/bin/README-install-troubleshooting.md). All Task 2 commands below are run **inside the VM**, from the `analysis/` directory unless stated otherwise.
+**Task 2** requires the P4 tutorials [VM](https://github.com/jafingerhut/p4-guide/blob/master/bin/README-install-troubleshooting.md). All Task 2 commands below are run **inside the VM**, from the project's home directory unless stated otherwise.
 
 ---
 
